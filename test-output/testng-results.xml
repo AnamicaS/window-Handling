@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96218" started-at="2019-09-05T06:00:48Z" finished-at="2019-09-05T06:02:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96218" started-at="2019-09-05T06:00:48Z" finished-at="2019-09-05T06:02:24Z">
+      <class name="base.Windows">
+        <test-method status="PASS" signature="url()[pri:0, instance:base.Windows@39f31e]" name="url" duration-ms="96063" started-at="2019-09-05T06:00:48Z" finished-at="2019-09-05T06:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+      </class> <!-- base.Windows -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
